@@ -1,0 +1,35 @@
+DEBUG: find the following interfaces:  b4-eth0 b4-eth2 b4-eth1.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received non-stp packet, ignore it.
+DEBUG: received SIGTERM, terminate this program.
+INFO: non-root switch, designated root: 0101, root path cost: 1.
+INFO: port id: 01, role: ROOT.
+INFO: 	designated ->root: 0101, ->switch: 0101, ->port: 03, ->cost: 0.
+INFO: port id: 02, role: ALTERNATE.
+INFO: 	designated ->root: 0101, ->switch: 0301, ->port: 03, ->cost: 1.
+INFO: port id: 03, role: DESIGNATED.
+INFO: 	designated ->root: 0101, ->switch: 0401, ->port: 03, ->cost: 1.
