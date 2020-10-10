@@ -1,2 +1,7 @@
-# 19-20-Computer_network_lab
- 19-20Spring Computer_network experiment UCAS
+# 中国科学院大学 2019-2020春季学期 计算机网络实验课
+
+ 基于Linux下的网络命名空间技术，在其下完成各种网络设备的基础实现。
+ 
+ 集线器、交换机、 生成树机制实现、路由器、Mospf协议、IP高效查找算法、TCP协议栈等 
+
+代码与实验报告仅供参考，不可抄袭。若有引用请注明来源。
